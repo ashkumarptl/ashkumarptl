@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ashok Kumar
+# Hey there! 👋 I'm Ash Kumar Patel
 
 <div align="center">
   
@@ -79,6 +79,6 @@ Welcome to my GitHub! I'm passionate about building amazing software and contrib
 
 ### ⭐ If you like my work, feel free to give it a star! ⭐
 
-**Made with ❤️ by Ashok Kumar**
+**Made with ❤️ by Ash Kumar Patel**
 
 </div>
